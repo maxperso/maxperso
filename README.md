@@ -4,7 +4,7 @@
 
 2nd year student at EPITECH working on many projects with a passion for IT
 
-## 🧰 Languages and Tools
+## <iframe src="https://giphy.com/embed/K4hTcbAKLwDwsH1Z03" width="50" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/transparent-K4hTcbAKLwDwsH1Z03">via GIPHY</a></p> Languages and Tools
 
 <img align="left" alt="Python" width="45px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C" width="45px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -19,7 +19,7 @@
 <br />
 <br />
 
-## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="20"> Stats
+## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="23"> Stats
 
 <p align="left">
   <a href="http://torrinleonard.com/">
