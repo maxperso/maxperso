@@ -6,7 +6,6 @@
 
 ## 🧰 Languages and Tools
 
-
 <img align="left" alt="Python" width="45px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C" width="45px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="C++" width="45px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
@@ -21,7 +20,15 @@
 
 ## 📈 Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxperso&theme=dark&show_icons=true)
+<br/>
+<p align="left">
+  <a href="http://torrinleonard.com/">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=maxperso&show_icons=true&include_all_commits=true&theme=dark&hide_border=true">
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=maxperso&theme=dark&hide_border=true">		  
+  </a>
+</p>
+<br>
+
 ### 📫 How to reach me
 
 <p align="left">
