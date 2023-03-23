@@ -7,6 +7,9 @@
 <!-- ## <iframe src="https://giphy.com/embed/K4hTcbAKLwDwsH1Z03" width="50" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/transparent-K4hTcbAKLwDwsH1Z03">via GIPHY</a></p> Languages and Tools -->
 ## <img src="https://giphy.com/embed/K4hTcbAKLwDwsH1Z03" width="23"> Languages and Tools
 
+<div style="width:100%;height:0;padding-bottom:102%;position:relative;"><iframe src="https://giphy.com/embed/K4hTcbAKLwDwsH1Z03" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/transparent-K4hTcbAKLwDwsH1Z03">via GIPHY</a></p>
+
+
 <img align="left" alt="Python" width="45px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C" width="45px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="C++" width="45px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
