@@ -6,9 +6,12 @@
 
 ## 📫 How to reach me
 
-https://custom-icon-badges.demolab.com/badge/-maxime.gregoire@epitech.eu-red?style=for-the-badge&logo=mention&logoColor=white
+    <p align="left">
+        <a href="https://www.linkedin.com/in/maxime-gregoire-lyon/">
+            <img src="https://custom-icon-badges.demolab.com/badge/-LI-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<!-- https://custom-icon-badges.demolab.com/badge/-maxime.gregoire@epitech.eu-red?style=for-the-badge&logo=mention&logoColor=white
 
-https://custom-icon-badges.demolab.com/badge/-LI-red?style=for-the-badge&logo=linkedin&logoColor=white
+https://custom-icon-badges.demolab.com/badge/-LI-red?style=for-the-badge&logo=linkedin&logoColor=white -->
 
 <!--
 **maxperso/maxperso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
