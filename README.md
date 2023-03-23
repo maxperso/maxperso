@@ -4,8 +4,7 @@
 
 2nd year student at EPITECH working on many projects with a passion for IT
 
-<!-- ## <iframe src="https://giphy.com/embed/K4hTcbAKLwDwsH1Z03" width="50" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/transparent-K4hTcbAKLwDwsH1Z03">via GIPHY</a></p> Languages and Tools -->
-## <img src="https://giphy.com/embed/K4hTcbAKLwDwsH1Z03" width="23"> Languages and Tools
+## <img src="https://user-images.githubusercontent.com/91894666/227270463-77c974ec-ff1e-45ef-93e0-811f8fbc26ac.gif" width="23"> Languages and Tools
 
 <img align="left" alt="Python" width="45px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C" width="45px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
