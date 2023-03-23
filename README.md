@@ -8,9 +8,7 @@
 
     <p align="left">
        <a href="https://www.linkedin.com/in/maxime-gregoire-lyon/">
-          <img src="https://custom-icon-badges.demolab.com/badge/-LI
-          -red?style=for-the-badge&logo=linkedin&logoColor=white"
-          alt="LinkedIn"/></a>
+          <img src="https://custom-icon-badges.demolab.com/badge/-LI-red?style=for-the-badge&logo=linkedin&logoColor=white"alt="LinkedIn"/></a>
     </p>
 
 <!-- https://custom-icon-badges.demolab.com/badge/-maxime.gregoire@epitech.eu-red?style=for-the-badge&logo=mention&logoColor=white
