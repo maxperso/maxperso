@@ -4,7 +4,7 @@
 
 2nd year student at EPITECH working on many projects with a passion for IT
 
-## <img src="https://user-images.githubusercontent.com/91894666/227270463-77c974ec-ff1e-45ef-93e0-811f8fbc26ac.gif" width="23"> Languages and Tools
+## <img src="https://user-images.githubusercontent.com/91894666/227270463-77c974ec-ff1e-45ef-93e0-811f8fbc26ac.gif" width="25"> Languages and Tools
 
 <img align="left" alt="Python" width="45px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C" width="45px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -19,7 +19,7 @@
 <br />
 <br />
 
-## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="23"> Stats
+## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="25"> Stats
 
 <p align="left">
   <a href="http://torrinleonard.com/">
@@ -37,24 +37,3 @@
    <a href="maxime.gregoire@epitech.eu">
         <img src="https://custom-icon-badges.demolab.com/badge/-maxime.gregoire@epitech.eu-red?style=for-the-badge&logo=mention&logoColor=white"alt="Epitech"/></a>
 </p>
-
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxperso&hide_progress=true) -->
-
-<!-- https://custom-icon-badges.demolab.com/badge/-maxime.gregoire@epitech.eu-red?style=for-the-badge&logo=mention&logoColor=white
-
-https://custom-icon-badges.demolab.com/badge/-LI-red?style=for-the-badge&logo=linkedin&logoColor=white -->
-
-<!--
-**maxperso/maxperso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
