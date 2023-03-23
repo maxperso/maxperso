@@ -1,6 +1,6 @@
 # 🖥️  MAXPERSO
 
-**<img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">`👋 Hello, I'm Maxime GREGOIRE, a french developer from Lyon.`**
+**<img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="20">` Hello, I'm Maxime GREGOIRE, a french developer from Lyon.`**
 
 2nd year student at EPITECH working on many projects with a passion for IT
 
@@ -19,7 +19,7 @@
 <br />
 <br />
 
-## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Stats
+## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="20"> Stats
 
 <p align="left">
   <a href="http://torrinleonard.com/">
