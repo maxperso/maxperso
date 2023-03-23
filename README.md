@@ -30,7 +30,6 @@
 </p>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxperso&theme=dark&show_icons=true)
 ### 📫 How to reach me
 
 <p align="left">
