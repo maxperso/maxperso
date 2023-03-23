@@ -17,6 +17,7 @@
 <img align="left" alt="Apple" width="45px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
 <br />
 
+  
 
 ### 📫 How to reach me
 
