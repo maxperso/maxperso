@@ -16,8 +16,7 @@
 <img align="left" alt="Linux" width="45px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Apple" width="45px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
 <br />
-
-  
+<br />
 
 ### 📫 How to reach me
 
