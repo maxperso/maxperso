@@ -26,7 +26,7 @@
   <a href="http://torrinleonard.com/">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=maxperso&show_icons=true&include_all_commits=true&theme=dark&hide_border=true">
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=maxperso&theme=dark&hide_border=true">
-    <p align="center"><img src="https://profile-counter.glitch.me/{torrinworx}/count.svg"></p>		  
+    <p align="center"><img src="https://profile-counter.glitch.me/{maxperso}/count.svg"></p>		  
   </a>
 </p>
 
