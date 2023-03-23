@@ -28,10 +28,10 @@
         <img src="https://custom-icon-badges.demolab.com/badge/-maxime.gregoire@epitech.eu-red?style=for-the-badge&logo=mention&logoColor=white"alt="Epitech"/></a>
 </p>
 
-## 📈 Stats
+<!-- ## 📈 Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxperso&theme=dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxperso&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxperso&hide_progress=true) -->
 
 <!-- https://custom-icon-badges.demolab.com/badge/-maxime.gregoire@epitech.eu-red?style=for-the-badge&logo=mention&logoColor=white
 
