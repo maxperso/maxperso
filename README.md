@@ -1,6 +1,14 @@
-# 🖥️ Maxime GREGOIRE
+# 🖥️  MAXPERSO
 
 **`👋 Hello, I'm Maxime GREGOIRE, a french developer from Lyon.`**
+
+2nd year student at EPITECH working on many projects with a passion for IT
+
+## 📫 How to reach me
+
+https://custom-icon-badges.demolab.com/badge/-maxime.gregoire@epitech.eu-red?style=for-the-badge&logo=mention&logoColor=white
+
+https://custom-icon-badges.demolab.com/badge/-LI-red?style=for-the-badge&logo=linkedin&logoColor=white
 
 <!--
 **maxperso/maxperso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
