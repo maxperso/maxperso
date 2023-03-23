@@ -28,7 +28,6 @@
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=maxperso&theme=dark&hide_border=true">		  
   </a>
 </p>
-<br>
 
 ### 📫 How to reach me
 
