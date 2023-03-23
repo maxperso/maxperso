@@ -20,14 +20,12 @@
 
 ## 📈 Stats
 
-<br/>
 <p align="left">
-  <a href="http://torrinleonard.com/">
+  <a href="https://www.linkedin.com/in/maxime-gregoire-lyon/">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=maxperso&show_icons=true&include_all_commits=true&theme=dark&hide_border=true">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=maxperso&theme=dark&hide_border=true">		  
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxperso&theme=dark&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">	  
   </a>
 </p>
-<br>
 
 ### 📫 How to reach me
 
