@@ -13,6 +13,7 @@
 <img align="left" alt="GitHub" width="45px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="45px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Jenkins" width="45px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
+<img align="left" alt="VsCode" width="45px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Linux" width="45px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Apple" width="45px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
 <br />
@@ -20,13 +21,16 @@
 
 ## 📈 Stats
 
+<br/>
 <p align="left">
-  <a href="https://www.linkedin.com/in/maxime-gregoire-lyon/">
+  <a href="http://torrinleonard.com/">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=maxperso&show_icons=true&include_all_commits=true&theme=dark&hide_border=true">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxperso&theme=dark&bg_color=282828&hide_border=true&include_all_commits=true&count_private=true&layout=compact">	  
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=maxperso&theme=dark&hide_border=true">		  
   </a>
 </p>
+<br>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxperso&theme=dark&show_icons=true)
 ### 📫 How to reach me
 
 <p align="left">
