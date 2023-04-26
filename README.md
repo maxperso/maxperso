@@ -19,14 +19,14 @@
 <br />
 <br />
 
-## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="24"> Stats
+<!-- ## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="24"> Stats
 
 <p align="left">
   <a href="https://www.linkedin.com/in/maxime-gregoire-lyon/">
     <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=maxperso&show_icons=true&include_all_commits=true&theme=dark&hide_border=true">
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=maxperso&theme=dark&hide_border=true">		  
   </a>
-</p>
+</p> -->
 
 ### 📫 How to reach me
 
