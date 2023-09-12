@@ -2,7 +2,7 @@
 
 **<img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="20">` Hello, I'm Maxime GREGOIRE, a french developer from Lyon.`**
 
-2nd year student at EPITECH working on many projects with a passion for IT. <br >
+3rd year student at EPITECH working on many projects with a passion for IT. <br >
 I invite you to consult my repositories where I share some of my personal and academic projects.
 
 ## <img src="https://user-images.githubusercontent.com/91894666/227270463-77c974ec-ff1e-45ef-93e0-811f8fbc26ac.gif" width="25"> Languages and Tools
