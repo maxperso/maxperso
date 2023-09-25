@@ -14,11 +14,11 @@ I invite you to consult my repositories where I share some of my personal and ac
 <!-- <img align="left" alt="html" width="45px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="css" width="45px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> -->
 <img align="left" alt="JS" width="45px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="TS" width="45px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="React" width="45px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Tailwind" width="45px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 <img align="left" alt="Jenkins" width="45px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
-<!-- <img align="left" alt="VsCode" width="45px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> -->
 <img align="left" alt="Linux" width="45px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<!-- <img align="left" alt="Apple" width="45px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" /> -->
 <br />
 <br />
 
