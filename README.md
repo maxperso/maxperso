@@ -1,31 +1,63 @@
-<h1 align="center">Maxime’s GitHub</h1>
+<h1 align="center">Hi, I'm Maxime Grégoire 👋</h1>
 
-**<img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="20">` Hello, I'm Maxime GREGOIRE, a french Project Manager and developer from Lyon. `**
+<p align="center">
+  <b>IT Consultant · Project Coordinator · Full-stack Developer — Lyon, France</b>
+</p>
 
-5th year student at EPITECH in exchange at Beijing Jiaotong University. I'm working on many projects with a passion for IT. <br >
-I invite you to consult my repositories where I share some of my personal and academic projects.
+<p align="center">
+  Epitech graduate (PGE 2026), now working as an IT consultant.<br />
+  I sit between the business and the code: I frame the need, coordinate the team,<br />
+  and stay hands-on enough to build and ship the product myself when it helps.
+</p>
 
-## <img src="https://user-images.githubusercontent.com/91894666/227270463-77c974ec-ff1e-45ef-93e0-811f8fbc26ac.gif" width="25"> Languages and Tools
-
-<img align="left" alt="GitLab" width="45px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-plain-wordmark.svg" />
-<img align="left" alt="Wordpress" width="45px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />
-<img align="left" alt="C" width="45px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="left" alt="C++" width="45px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Python" width="45px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="html" width="45px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="css" width="45px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="JS" width="45px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="TS" width="45px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="React" width="45px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Linux" width="45px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<br />
 <br />
 
-### 📫 How to reach me
+<h3 align="center">🎯 What I do</h3>
 
-<p align="left">
-   <a href="https://www.linkedin.com/in/maxime-gregoire-lyon/">
-      <img src="https://custom-icon-badges.demolab.com/badge/-LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white"alt="LinkedIn"/></a>
-   <a href="maxime.gregoire@epitech.eu">
-        <img src="https://custom-icon-badges.demolab.com/badge/-maxime.gregoire@epitech.eu-red?style=for-the-badge&logo=mention&logoColor=white"alt="Epitech"/></a>
+<p align="center">
+  🧭 &nbsp;<b>Project management (AMOA)</b> — needs analysis, functional specs, agile delivery (Scrum &amp; Kanban), planning, UAT &amp; go-live<br />
+  🤝 &nbsp;<b>Coordination</b> — bridging business, design and dev teams across multiple accounts (and time zones)<br />
+  💻 &nbsp;<b>Development</b> — full-stack web, CMS integrations, DevOps &amp; multi-OS builds when the project needs it<br />
+  📈 &nbsp;<b>Run &amp; optimization</b> — maintenance (TMA), analytics, process improvement
+</p>
+
+<p align="center">
+  <i>Recent impact: migrated ~18,900 legacy orders and streamlined order handling to save ≈500 hours/year for a client.</i>
+</p>
+
+<br />
+
+<h3 align="center">🧰 Languages & frameworks</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,react,bash" alt="Languages" />
+</p>
+
+<h3 align="center">🛠️ Tools & platforms</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,gitlab,notion,wordpress" alt="Tools" />
+</p>
+
+<br />
+
+<h3 align="center">📊 GitHub</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=REPLACE_WITH_YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" alt="Maxime's GitHub stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=REPLACE_WITH_YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" alt="Top languages" height="160" />
+</p>
+
+<br />
+
+<h3 align="center">📫 Reach me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/maxime-gregoire-lyon/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:maxime.gregoire@epitech.eu">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
+  </a>
 </p>
