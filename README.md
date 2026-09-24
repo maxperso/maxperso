@@ -44,8 +44,8 @@
 <h3 align="center">📊 GitHub</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=REPLACE_WITH_YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" alt="Maxime's GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=REPLACE_WITH_YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" alt="Top languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maxperso&show_icons=true&hide_border=true&theme=transparent" alt="Maxime's GitHub stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxperso&layout=compact&hide_border=true&theme=transparent" alt="Top languages" height="160" />
 </p>
 
 <br />
